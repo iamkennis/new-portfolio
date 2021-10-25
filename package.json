@@ -9,9 +9,7 @@
     "start": "next start",
     "lint": "next lint",
     "format": "prettier --write src",
-    "up-latest": "yarn upgrade-interactive --latest",
-    "pre-commit": "lint-staged",
-    "prepare": "yarn install"
+    "up-latest": "yarn upgrade-interactive --latest"
   },
   "dependencies": {
     "@chakra-ui/react": "^1.6.5",
