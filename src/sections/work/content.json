@@ -18,7 +18,7 @@
     "body2": " Built with React|Redux|Node|MongoDb",
     "logoAlt": "Shopify logo, a green bag with a white S on the front",
     "ctaText": "Website Link",
-    "ctaLink": "https://beardmen.netlify.app",
+    "ctaLink": "https://beardmen.vercel.app",
     "tags": ["current", "work"]
   },
   {
