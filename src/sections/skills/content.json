@@ -6,12 +6,12 @@
   {
     "style": "BADGE",
     "badgeText": "LANGUAGES",
-    "text": "Html, Css, Javascript (Typescript)"
+    "text": "Html, Css/Scss, Javascript"
   },
   {
     "style": "BADGE",
     "badgeText": "FRAMEWORKS AND TECHNICAL",
-    "text": "Node.js, React.js, Express"
+    "text": "Node.js, React.js, Next.js,Express,Tailwind.css"
   },
   {
     "style": "BADGE",
