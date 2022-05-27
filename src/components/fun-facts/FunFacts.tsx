@@ -13,34 +13,48 @@ export const FunFacts = () => {
     <>
      <Center w="100%" pt={15} pb={10}>
       <Heading size="lg" letterSpacing="0.1rem" as="h1" color="gery">
-        EXPERIENCE
+      WORK EXPERIENCE
         </Heading>
          
       </Center>
-    <Box bg={CardBg} borderRadius="lg" p={8} position="relative">
+          <Box bg={CardBg} borderRadius="lg" mt={8} p={8} position="relative">
+      <Stack>
+        <Text fontWeight="bold" pb={4} letterSpacing="0.1rem">
+            UpWork
+          </Text>
+           <chakra.span color={CardText} fontWeight="bold" className="wrap">Frontend Developer</chakra.span>
+        <Text fontWeight="bold" color={HighlightText}>March 2022 - Present</Text>
+        <Text fontWeight="bold" color={CardText}>Frontend Developer</Text>
+        <Text color={CardText}>
+          Building and Maintaining Scalable Design For Web3 Application with JavaScript/Typescript/React/NextJs{" "}
+        </Text>
+      </Stack>
+      </Box>
+
+      <Box bg={CardBg} borderRadius="lg" p={8} position="relative">
+         <Stack>
+        <Text fontWeight="bold" pb={4} letterSpacing="0.1rem">
+            Finosell Global Ltd {""}
+            <chakra.span color={CardText} fontWeight="bold" className="no-wrap">Frontend Developer</chakra.span>
+        </Text>
+          <Text fontWeight="bold" color={HighlightText}>Jan 2022 - March 2022</Text>
+          <Text color={CardText}>Create and design clients-side , with React/Redux/Chakra UI</Text>
+          <Text color={CardText}>Also Implement APIs functionality across the pages</Text>
+      </Stack>
+      </Box>
+
+      <Box bg={CardBg} borderRadius="lg" p={8} position="relative">
+        
     <Stack>
         <Text fontWeight="bold" pb={4} letterSpacing="0.1rem">
             Zebullon Developer Network {""}
             <chakra.span color={CardText} fontWeight="bold" className="no-wrap">Frontend Developer Intern</chakra.span>
         </Text>
-          <Text fontWeight="bold" color={HighlightText}>May 2020 - August 2021</Text>
+          <Text fontWeight="bold" color={HighlightText}>March 2021 - Decemeber 2021</Text>
+          <Text fontWeight="bold" color={CardText}>Frontend Developer Intern</Text>
         <Text color={CardText}>Create and design clients-side application websites, with React/Redux/Sass</Text>
       </Stack>
     </Box>
-    <Box bg={CardBg} borderRadius="lg" mt={8} p={8} position="relative">
-      <Stack>
-        <Text fontWeight="bold" pb={4} letterSpacing="0.1rem">
-            UpWork
-          </Text>
-           <chakra.span color={CardText} fontWeight="bold" className="wrap">Frontend Developer Freelancer</chakra.span>
-        <Text fontWeight="bold" color={HighlightText}>Septemeber 2021 - Present</Text>
-        <Text fontWeight="bold" color={CardText}>Frontend Developer Freelancer</Text>
-        <Text color={CardText}>
-          Helping clients to build a scalable website with JavaScript/React/Redux{" "}
-          {/* <chakra.span className="no-wrap">¯\_(ツ)_/¯</chakra.span> */}
-        </Text>
-      </Stack>
-      </Box>
       </>
   );
 };
