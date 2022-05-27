@@ -17,7 +17,7 @@ export const FunFacts = () => {
         </Heading>
          
       </Center>
-          <Box bg={CardBg} borderRadius="lg" mt={8} pb={10}  position="relative">
+          <Box bg={CardBg} borderRadius="lg" mt={8} p={8}  position="relative">
       <Stack>
         <Text fontWeight="bold" pb={4} letterSpacing="0.1rem">
             DetlaStack
@@ -31,7 +31,7 @@ export const FunFacts = () => {
       </Stack>
       </Box>
 
-      <Box bg={CardBg} borderRadius="lg"  pb={10} position="relative">
+      <Box bg={CardBg} borderRadius="lg" mt={8} p={8} position="relative">
          <Stack>
         <Text fontWeight="bold" pb={4} letterSpacing="0.1rem">
             Finosell Global Ltd {""}
@@ -43,7 +43,7 @@ export const FunFacts = () => {
       </Stack>
       </Box>
 
-      <Box bg={CardBg} borderRadius="lg" p={8} position="relative">
+      <Box bg={CardBg} borderRadius="lg" mt={8} p={8} position="relative">
         
     <Stack>
         <Text fontWeight="bold" pb={4} letterSpacing="0.1rem">
