@@ -17,10 +17,10 @@ export const FunFacts = () => {
         </Heading>
          
       </Center>
-          <Box bg={CardBg} borderRadius="lg" mt={8} p={8} position="relative">
+          <Box bg={CardBg} borderRadius="lg" mt={8} pb={10}  position="relative">
       <Stack>
         <Text fontWeight="bold" pb={4} letterSpacing="0.1rem">
-            UpWork
+            DetlaStack
           </Text>
            <chakra.span color={CardText} fontWeight="bold" className="wrap">Frontend Developer</chakra.span>
         <Text fontWeight="bold" color={HighlightText}>March 2022 - Present</Text>
@@ -31,7 +31,7 @@ export const FunFacts = () => {
       </Stack>
       </Box>
 
-      <Box bg={CardBg} borderRadius="lg" p={8} position="relative">
+      <Box bg={CardBg} borderRadius="lg"  pb={10} position="relative">
          <Stack>
         <Text fontWeight="bold" pb={4} letterSpacing="0.1rem">
             Finosell Global Ltd {""}
