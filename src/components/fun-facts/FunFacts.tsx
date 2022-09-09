@@ -17,16 +17,33 @@ export const FunFacts = () => {
         </Heading>
          
       </Center>
+       <Box bg={CardBg} borderRadius="lg" mt={8} p={8} position="relative">
+         <Stack>
+        <Text fontWeight="bold" pb={4} letterSpacing="0.1rem">
+            Finosell Global Ltd {""}
+            <chakra.span color={CardText} fontWeight="bold" className="no-wrap">Frontend Developer</chakra.span>
+        </Text>
+          <Text fontWeight="bold" color={HighlightText}>August 2022 - September 2022</Text>
+          <Text color={CardText}>I worked on the business management dashboard and added payment, order,invoices and team management. 
+</Text>
+          <Text color={CardText}>I added printout functionality to print both  invoice and receipt  for the desktop application.
+</Text>
+          
+      </Stack>
+      </Box>
           <Box bg={CardBg} borderRadius="lg" mt={8} p={8}  position="relative">
       <Stack>
         <Text fontWeight="bold" pb={4} letterSpacing="0.1rem">
             DetlaStack
           </Text>
            <chakra.span color={CardText} fontWeight="bold" className="wrap">Frontend Developer</chakra.span>
-        <Text fontWeight="bold" color={HighlightText}>March 2022 - Present</Text>
+        <Text fontWeight="bold" color={HighlightText}>April 2022 - July 2022</Text>
         <Text fontWeight="bold" color={CardText}>Frontend Developer</Text>
         <Text color={CardText}>
-          Building and Maintaining Scalable Design For Web3 Application with JavaScript/Typescript/React/NextJs{" "}
+          I kickstart the design and APIs implementation for Cryptofundme,I added the APIs for authentication for users and also for campaign and donation. 
+          </Text>
+           <Text color={CardText}>
+         I converted Figma designs to pixel perfect, reusable Typescript/React components. 
         </Text>
       </Stack>
       </Box>
@@ -38,8 +55,10 @@ export const FunFacts = () => {
             <chakra.span color={CardText} fontWeight="bold" className="no-wrap">Frontend Developer</chakra.span>
         </Text>
           <Text fontWeight="bold" color={HighlightText}>Jan 2022 - March 2022</Text>
-          <Text color={CardText}>Create and design clients-side , with React/Redux/Chakra UI</Text>
-          <Text color={CardText}>Also Implement APIs functionality across the pages</Text>
+          <Text color={CardText}>Worked on creating the dashboard to manage both personal and business accounts.
+</Text>
+          <Text color={CardText}>I help create account authentication for business and personal accounts.</Text>
+          
       </Stack>
       </Box>
 
@@ -48,11 +67,12 @@ export const FunFacts = () => {
     <Stack>
         <Text fontWeight="bold" pb={4} letterSpacing="0.1rem">
             Zebullon Developer Network {""}
-            <chakra.span color={CardText} fontWeight="bold" className="no-wrap">Frontend Developer Intern</chakra.span>
+            <chakra.span color={CardText} fontWeight="bold" className="no-wrap">UI/UX Intern</chakra.span>
         </Text>
-          <Text fontWeight="bold" color={HighlightText}>March 2021 - Decemeber 2021</Text>
-          <Text fontWeight="bold" color={CardText}>Frontend Developer Intern</Text>
-        <Text color={CardText}>Create and design clients-side application websites, with React/Redux/Sass</Text>
+          <Text fontWeight="bold" color={HighlightText}>March 2018 - April 2018
+</Text>
+          <Text fontWeight="bold" color={CardText}>UI/UX Intern</Text>
+        <Text color={CardText}>Help create a UI design and prototype  mockup in Adobe XD </Text>
       </Stack>
     </Box>
       </>
