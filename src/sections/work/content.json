@@ -34,13 +34,13 @@
   },
   {
     "imageKey": "",
-    "title": "Picker Dice Game",
-    "dates": "Html  Css  Javascript",
+    "title": "NTF Verse",
+    "dates": "React Css Typescript",
     "body1": "A mini game ",
-    "body2": "Built with Html|Css|Javascript",
-    "logoAlt": "Royal Bank of Canada logo, a blue shield with a golden lion holding a globe",
+    "body2": "Built with Typscript|Css|React",
+    "logoAlt": "",
     "ctaText": "Website Link",
-    "ctaLink": "https//picker-dice-game.netlify.app",
+    "ctaLink": "https//http://nft-verse.vercel.app/",
     "tags": ["current","work"]
   }
 ]
