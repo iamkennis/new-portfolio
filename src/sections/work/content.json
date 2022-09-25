@@ -22,18 +22,18 @@
     "tags": ["current", "work"]
   },
   {
-    "imageKey": "/logos/hw.png",
-    "title": "Bookmark Website",
-    "dates": "Html  Css  Javascript",
-    "body1": "A frontend mentor challenge, i did to test my frontend skills",
-    "body2": "A frontend mentor challenge built with Html|Css|Javascript",
-    "logoAlt": "Hack Western logo, a purple isometric horse",
+    "imageKey": "",
+    "title": "Super Proxy",
+    "dates": "Typescript  React NextJs",
+    "body1": "A Website for finding and hiring your the best Artisan",
+      "body2": " Built with React|Typescript|Nextjs|TailwindCss",
+    "logoAlt": "",
     "ctaText": "Website Link",
-    "ctaLink": "https://bookmark-app-now.netilfy.app",
+    "ctaLink": "https://artisan-finder-new.vercel.app",
     "tags": ["current", "ec"]
   },
   {
-    "imageKey": "/logos/rbc.png",
+    "imageKey": "",
     "title": "Picker Dice Game",
     "dates": "Html  Css  Javascript",
     "body1": "A mini game ",
