@@ -11,12 +11,12 @@
   {
     "style": "BADGE",
     "badgeText": "FRAMEWORKS AND TECHNICAL",
-    "text": "NodeJs, ReactJs, NextJs, Express, Bootstrap, TailwindCss,"
+    "text": "NodeJs, ReactJs, NextJs, Express, Bootstrap, TailwindCss, ChakraUI, MaterialUI"
   },
   {
     "style": "BADGE",
     "badgeText": "TOOLS",
-    "text": "Git, Netlify, Heroku ,Github, MongoDb"
+    "text": "Git, Netlify, Heroku ,Github, MongoDB"
   },
   {
     "style": "BADGE",
