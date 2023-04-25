@@ -20,13 +20,28 @@ export const FunFacts = () => {
        <Box bg={CardBg} borderRadius="lg" mt={8} p={8} position="relative">
          <Stack>
         <Text fontWeight="bold" pb={4} letterSpacing="0.1rem">
+            HealthStack Solution Ltd{""}
+            <chakra.span color={CardText} fontWeight="bold" className="no-wrap">Frontend Developer</chakra.span>
+        </Text>
+          <Text fontWeight="bold" color={HighlightText}>November 2022 - Present </Text>
+            <Text fontWeight="bold" color={CardText}>Full-time | Remote</Text>
+          <Text color={CardText}>Designed and Developed about 12+ figma pages designs of dashboard to onboard EMR, Patients and HMOs  and also connected them to the necessary backend endpoints .
+</Text>
+          <Text color={CardText}>Implement  payment integration like  paystack,remita/pouchii  and flutterware for patients to make any payment.</Text>
+          
+      </Stack>
+      </Box>
+       <Box bg={CardBg} borderRadius="lg" mt={8} p={8} position="relative">
+         <Stack>
+        <Text fontWeight="bold" pb={4} letterSpacing="0.1rem">
             Finosell Global Ltd {""}
             <chakra.span color={CardText} fontWeight="bold" className="no-wrap">Frontend Developer</chakra.span>
         </Text>
           <Text fontWeight="bold" color={HighlightText}>August 2022 - September 2022</Text>
-          <Text color={CardText}>I worked on the business management dashboard and added payment, order,invoices and team management. 
+            <Text fontWeight="bold" color={CardText}>Contract | Remote</Text>
+          <Text color={CardText}>Worked on the business management dashboard and added payment, order,invoices and team management. 
 </Text>
-          <Text color={CardText}>I added printout functionality to print both  invoice and receipt  for the desktop application.
+          <Text color={CardText}>Added printout functionality to print both  invoice and receipt  for the desktop application.
 </Text>
           
       </Stack>
@@ -34,16 +49,17 @@ export const FunFacts = () => {
           <Box bg={CardBg} borderRadius="lg" mt={8} p={8}  position="relative">
       <Stack>
         <Text fontWeight="bold" pb={4} letterSpacing="0.1rem">
-            DetlaStack
-          </Text>
+            DetlaStack {""}
            <chakra.span color={CardText} fontWeight="bold" className="wrap">Frontend Developer</chakra.span>
+          </Text>
+          
         <Text fontWeight="bold" color={HighlightText}>April 2022 - July 2022</Text>
-        <Text fontWeight="bold" color={CardText}>Frontend Developer</Text>
+        <Text fontWeight="bold" color={CardText}>Full-Time | Remote</Text>
         <Text color={CardText}>
-          I kickstart the design and APIs implementation for Cryptofundme,I added the APIs for authentication for users and also for campaign and donation. 
+          Implement the design and APIs implementation for Cryptofundme,I added the APIs for authentication for users and also for campaign and donation. 
           </Text>
            <Text color={CardText}>
-         I converted Figma designs to pixel perfect, reusable Typescript/React components. 
+         Converted Figma designs to pixel perfect, reusable Typescript/React components. 
         </Text>
       </Stack>
       </Box>
@@ -55,9 +71,10 @@ export const FunFacts = () => {
             <chakra.span color={CardText} fontWeight="bold" className="no-wrap">Frontend Developer</chakra.span>
         </Text>
           <Text fontWeight="bold" color={HighlightText}>Jan 2022 - March 2022</Text>
+            <Text fontWeight="bold" color={CardText}>Full-Time | Onsite</Text>
           <Text color={CardText}>Worked on creating the dashboard to manage both personal and business accounts.
 </Text>
-          <Text color={CardText}>I help create account authentication for business and personal accounts.</Text>
+          <Text color={CardText}>Help create account authentication for business and personal accounts.</Text>
           
       </Stack>
       </Box>
@@ -67,12 +84,14 @@ export const FunFacts = () => {
     <Stack>
         <Text fontWeight="bold" pb={4} letterSpacing="0.1rem">
             Zebullon Developer Network {""}
-            <chakra.span color={CardText} fontWeight="bold" className="no-wrap">UI/UX Intern</chakra.span>
+            <chakra.span color={CardText} fontWeight="bold" className="no-wrap">Frontend Developer Intern</chakra.span>
         </Text>
-          <Text fontWeight="bold" color={HighlightText}>March 2018 - April 2018
+          <Text fontWeight="bold" color={HighlightText}>August 2021 - October 2021
+
 </Text>
-          <Text fontWeight="bold" color={CardText}>UI/UX Intern</Text>
-        <Text color={CardText}>Help create a UI design and prototype  mockup in Adobe XD </Text>
+           <Text fontWeight="bold" color={CardText}>Full-Time | Remote</Text>
+        <Text color={CardText}>Help convert  mockups design with Html/Css/Javascripts</Text>
+       <Text color={CardText}>Build email template from figma designs</Text>
       </Stack>
     </Box>
       </>
