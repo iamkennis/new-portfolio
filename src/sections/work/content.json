@@ -1,13 +1,13 @@
 [
   {
     "imageKey": "",
-    "title": "Dalcoin Website",
+    "title": "Ensome Website",
     "dates": "Html Css Javascript",
-    "body1": "A crypto-currecncy website landing page for a client",
-    "body2": "Built with Html|Css|Javascript",
+    "body1": "A financial website landing page for a client",
+    "body2": "Built with ReactJs/NextJs|TailwindCss|Javascript",
     "logoAlt": "",
     "ctaText": "Website Link",
-    "ctaLink": "https://dalcoin.netlify.app",
+    "ctaLink": "https://ensome-landing-page.vercel.app/",
     "tags": ["current", "work"]
   },
   {
@@ -23,7 +23,7 @@
   },
   {
     "imageKey": "",
-    "title": "Super Proxy",
+    "title": "Artisan-Finder",
     "dates": "Typescript  React NextJs",
     "body1": "A Website for finding and hiring your the best Artisan",
       "body2": " Built with ReactJs|Typescript|Nextjs|TailwindCss",
@@ -32,7 +32,29 @@
     "ctaLink": "https://artisan-finder-new.vercel.app",
     "tags": ["current", "ec"]
   },
+   {
+    "imageKey": "",
+    "title": "Fitness Dashboard",
+    "dates": "React TailwindCss Typescript",
+    "body1": "A fitness dashboard",
+    "body2": "Built with Typscript|TailwindCss|ReactJs",
+    "logoAlt": "",
+    "ctaText": "Website Link",
+    "ctaLink": "https://fitness-dashboard.vercel.app/",
+    "tags": ["current","work"]
+  },
   {
+    "imageKey": "",
+    "title": "New Shoe",
+    "dates": "React TailwindCss Typescript",
+    "body1": "Sport store landing page",
+    "body2": "Built with Typscript|TailwindCss|ReactJs",
+    "logoAlt": "",
+    "ctaText": "Website Link",
+    "ctaLink": "https://newshow.vercel.app/",
+    "tags": ["current","work"]
+  },
+   {
     "imageKey": "",
     "title": "NTF Verse",
     "dates": "React Css Typescript",
