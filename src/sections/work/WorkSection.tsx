@@ -8,7 +8,7 @@ import { useBreakpointValue } from "@chakra-ui/media-query";
 // import useDraggableScroll from "use-draggable-scroll";
 
 import { WorkCard } from "./components";
-// import { MotionBox } from "../../components/motion";
+import { MotionBox } from "../../components/motion";
 import { Heading } from "@chakra-ui/layout";
 // import { AnimateChild } from "components/animation/StaggeredAnimation";
 // import { easeProps } from "components/animation/variants";
@@ -33,7 +33,7 @@ const CardGrid = ({
 
   if (isSmall) {
     return (
-      <Stack direction="column" spacing={4}>
+      <Stack direction="column" alignItems="center" spacing={4}>
         {children}
       </Stack>
     );
@@ -50,7 +50,7 @@ export const WorkSection = () => {
   const isSmall = useBreakpointValue({ base: true, md: false });
 
   return (
-    <Box w="full" overflow="hidden">
+    <MotionBox w="full" overflow="hidden">
       <Container
         maxW="container.lg"
         pt={16}
@@ -73,7 +73,7 @@ export const WorkSection = () => {
            <TabPanels>
             {WORK_TYPES.map((el) => (
               <TabPanel pr={0} pl={0} pt={8} key={`${el}-tabPanel`}>
-                  <CardGrid>
+                  <CardGrid isSmall={isSmall}>
                     {filteredContent(el).map((item, index) => (
                       <WorkCard item={item} key={`${el}-${index}`} />
                     ))}
@@ -83,6 +83,6 @@ export const WorkSection = () => {
           </TabPanels>
         </Tabs>
       </Container>
-    </Box>
+    </MotionBox>
   );
 };
