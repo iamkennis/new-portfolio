@@ -41,5 +41,8 @@
     "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
       "prettier --write"
     ]
+  },
+  "engine":{
+    "node":"18.x"
   }
 }
