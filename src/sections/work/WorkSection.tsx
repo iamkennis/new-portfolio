@@ -33,7 +33,7 @@ const CardGrid = ({
 
   if (isSmall) {
     return (
-      <Stack direction="column" pl={5} spacing={4}>
+      <Stack direction="column" spacing={4}>
         {children}
       </Stack>
     );
@@ -73,7 +73,7 @@ export const WorkSection = () => {
            <TabPanels>
             {WORK_TYPES.map((el) => (
               <TabPanel pr={0} pl={0} pt={8} key={`${el}-tabPanel`}>
-                  <CardGrid isSmall={isSmall}>
+                  <CardGrid>
                     {filteredContent(el).map((item, index) => (
                       <WorkCard item={item} key={`${el}-${index}`} />
                     ))}
