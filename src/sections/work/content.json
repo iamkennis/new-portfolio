@@ -7,7 +7,7 @@
     "body2": "Built with ReactJs/NextJs|TailwindCss",
     "logoAlt": "",
     "ctaText": "Website Link",
-    "ctaLink": "https://ensome-landing-page.vercel.app/",
+    "ctaLink": "https://ensome-landing-page.vercel.app",
     "tags": ["current", "work"]
   },
   {
@@ -29,7 +29,7 @@
       "body2": "Built with ReactJs|Nextjs|TailwindCss",
     "logoAlt": "",
     "ctaText": "Website Link",
-    "ctaLink": "https://artisan-finder-new.vercel.app",
+    "ctaLink": "https://artisan-finder-news.vercel.app",
     "tags": ["current", "ec"]
   },
    {
@@ -51,18 +51,18 @@
     "body2": "Built with Typscript|TailwindCss|ReactJs",
     "logoAlt": "",
     "ctaText": "Website Link",
-    "ctaLink": "https://newshow.vercel.app/",
+    "ctaLink": "https://newshows.vercel.app",
     "tags": ["current","work"]
   },
    {
     "imageKey": "",
-    "title": "NTF Verse",
+    "title": "Web Crypto",
     "dates": "React Css Typescript",
-    "body1": "A mini game ",
+    "body1": "A Landing page ",
     "body2": "Built with Typscript|Css|ReactJs",
     "logoAlt": "",
     "ctaText": "Website Link",
-    "ctaLink": "http://nft-verse.vercel.app/",
+    "ctaLink": "http://webcryptopro.vercel.app",
     "tags": ["current","work"]
   }
 ]
