@@ -2,7 +2,7 @@
   "name": "nextchakra-starter",
   "version": "0.1.0",
   "private": true,
-  "author": "kennis",
+  "author": "iamkennis",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
