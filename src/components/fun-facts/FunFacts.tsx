@@ -20,12 +20,12 @@ export const FunFacts = () => {
       <Box bg={CardBg} borderRadius="lg" mt={8} p={8} position="relative">
          <Stack>
         <Text fontWeight="bold" pb={4} letterSpacing="0.1rem">
-             RotaPad  {""}
+             RotaPad
             <chakra.span color={CardText} fontWeight="bold" className="no-wrap">Full Stack Developer</chakra.span>
         </Text>
           <Text fontWeight="bold" color={HighlightText}>May 2023 - December 2023 </Text>
             <Text fontWeight="bold" color={CardText}>Full-time | Remote</Text>
-          <Text color={CardText}>Collaborated with designers to revamp the company's dashboard UI, enhancing UX and data visualization, leading to a 15% increase in data-driven decision-making.</Text>
+          <Text color={CardText}>Collaborated with designers to revamp the company dashboard UI, enhancing UX and data visualization, leading to a 15% increase in data driven decision making</Text>
           <Text color={CardText}>Rewrote and optimized backend code, improving code quality, maintainability, and security, reducing codebase complexity by 20%.</Text>
       </Stack>
       </Box>
