@@ -20,7 +20,7 @@ export const FunFacts = () => {
       <Box bg={CardBg} borderRadius="lg" mt={8} p={8} position="relative">
          <Stack>
         <Text fontWeight="bold" pb={4} letterSpacing="0.1rem">
-             RotaPad
+             RotaPad {""}
             <chakra.span color={CardText} fontWeight="bold" className="no-wrap">Full Stack Developer</chakra.span>
         </Text>
           <Text fontWeight="bold" color={HighlightText}>May 2023 - December 2023 </Text>
