@@ -17,13 +17,25 @@ export const FunFacts = () => {
         </Heading>
          
       </Center>
+      <Box bg={CardBg} borderRadius="lg" mt={8} p={8} position="relative">
+         <Stack>
+        <Text fontWeight="bold" pb={4} letterSpacing="0.1rem">
+             RotaPad  {""}
+            <chakra.span color={CardText} fontWeight="bold" className="no-wrap">Full Stack Developer</chakra.span>
+        </Text>
+          <Text fontWeight="bold" color={HighlightText}>May 2023 - December 2023 </Text>
+            <Text fontWeight="bold" color={CardText}>Full-time | Remote</Text>
+          <Text color={CardText}>Collaborated with designers to revamp the company's dashboard UI, enhancing UX and data visualization, leading to a 15% increase in data-driven decision-making.</Text>
+          <Text color={CardText}>Rewrote and optimized backend code, improving code quality, maintainability, and security, reducing codebase complexity by 20%.</Text>
+      </Stack>
+      </Box>
        <Box bg={CardBg} borderRadius="lg" mt={8} p={8} position="relative">
          <Stack>
         <Text fontWeight="bold" pb={4} letterSpacing="0.1rem">
             HealthStack Solution Ltd {""}
             <chakra.span color={CardText} fontWeight="bold" className="no-wrap">Frontend Developer</chakra.span>
         </Text>
-          <Text fontWeight="bold" color={HighlightText}>November 2022 - Present </Text>
+          <Text fontWeight="bold" color={HighlightText}>November 2022 - May 2023 </Text>
             <Text fontWeight="bold" color={CardText}>Full-time | Remote</Text>
           <Text color={CardText}>Designed and Developed about 12+ figma pages designs of dashboard to onboard EMR, Patients and HMOs  and also connected them to the necessary backend endpoints .
 </Text>
