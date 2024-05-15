@@ -1,13 +1,13 @@
 [
   {
     "imageKey": "",
-    "title": "Ensome Website",
-    "dates": "Html Css Javascript",
-    "body1": "A financial website landing page for a client",
-    "body2": "Built with ReactJs/NextJs|TailwindCss",
+    "title": "Rotapad WebApp",
+    "dates": "Reatjs Javascript Typescript",
+    "body1": "Built with ReactJs/NextJs|Javascript/Typescript|",
+    "body2": "Nodejs/Express|Firebase",
     "logoAlt": "",
     "ctaText": "Website Link",
-    "ctaLink": "https://ensome-landing-page.vercel.app",
+    "ctaLink": "https://beta.rotapad.com",
     "tags": ["current", "work"]
   },
   {
