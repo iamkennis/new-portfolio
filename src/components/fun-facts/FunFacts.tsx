@@ -81,11 +81,11 @@ export const FunFacts = () => {
             Zebullon Developer Network {""}
             <chakra.span color={CardText} fontWeight="bold" className="no-wrap">Frontend Developer Intern</chakra.span>
         </Text>
-          <Text fontWeight="bold" color={HighlightText}>August 2021 -  December 2021
+          <Text fontWeight="bold" color={HighlightText}>Augus 2021 -  December 2021
 
 </Text>
            <Text fontWeight="bold" color={CardText}>Full-Time | Onsite</Text>
-        <Text color={CardText}>Help convert  mockups design with Html/Css/Javascripts</Text>
+        <Text color={CardText}>Translated mockup designs and, ensuring UI fidelity and reducing design</Text>
        <Text color={CardText}>Build email template from figma designs</Text>
       </Stack>
     </Box>
