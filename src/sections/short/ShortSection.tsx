@@ -36,15 +36,6 @@ export const ShortSection = ({ companyItem }: Props) => {
                   >
                     Let&apos;s get in touch!
                   </Button>
-                  <Button
-                    w="fit-content"
-                    as={Link}
-                    href={RESUME_LINK}
-                    isExternal
-                    variant="ghost"
-                  >
-                    {"PDF"} Resume
-                  </Button>
                 </Stack>
               </AnimateChild>
             </Stack>
