@@ -1,10 +1,10 @@
 [
   {
     "imageKey": "",
-    "title": "Rotapad WebApp",
-    "dates": "Reatjs Javascript Typescript",
-    "body1": "Worked has a fullstack engineer to help rewrite and optimized the code, improving code quality, maintainability, and security.",
-    "body2": "Nodejs/Express|Firebase",
+    "title": "Rotapad",
+    "dates": "A Simplify your workforce management and boosting productivity for businesses",
+    "body1": "Rewrote and optimized code as a full-stack engineer, enhancing code quality, maintainability, and security"
+    "body2": "",
     "logoAlt": "",
     "ctaText": "Website Link",
     "ctaLink": "https://beta.rotapad.com",
@@ -12,9 +12,20 @@
   },
   {
     "imageKey": "",
-    "title": "Finosel WebApp",
+    "title": "HealthStack Dashboard",
+    "dates": "A healthcare platform that helps organizations leverage technology to become more profitable and increase productivity.",
+    "body1": "As the frontend engineer, I collaborated with my team to design and develop pages, creating intuitive dashboards and onboarding experiences for EMR systems, patients, and HMOs.",
+    "body2": " Built with React|Redux|Node|MongoDb",
+    "logoAlt": "Shopify logo, a green bag with a white S on the front",
+    "ctaText": "Website Link",
+    "ctaLink": "https://healthstack.africa/",
+    "tags": ["current", "work"]
+  },
+  {
+    "imageKey": "",
+    "title": "Finosell",
     "dates": "A financial and business management App for business owners and individuals.",
-    "body1": "Work has frontend developer to create a comprehensive dashboard for managing personal and business accounts,simplifying account management",
+    "body1": "I worked as the frontend developer to create a comprehensive dashboard for managing personal and business accounts, simplifying account management."
     "body2": "",
     "logoAlt": "",
     "ctaText": "Website Link",
@@ -23,10 +34,43 @@
   },
   {
     "imageKey": "",
+    "title": "Earnathon",
+    "dates": "A platform to learn about blockchain & cryptocurrency for free and earn crypto tokens",
+    "body1": "As the frontend engineer,I worked on redesigning the web pages, adding courses and lessons to enhance user engagement and increase course enrollment.",
+    "body2": "",
+    "logoAlt": "",
+    "ctaText": "Website Link",
+    "ctaLink": "https://earnathon.com",
+    "tags": ["current", "work"]
+  },
+  {
+    "imageKey": "",
+    "title": "Cryptofundme",
+    "dates": "A platform to make donations in cryptocurrencies ",
+    "body1": "As the frontend engineer,I collaborated with team members to lead and implement designs and APIs, ensuring seamless web application functionality."
+    "body2": "",
+    "logoAlt": "Shopify logo, a green bag with a white S on the front",
+    "ctaText": "Website Link",
+    "ctaLink": "https://www.cryptofundme.io",
+    "tags": ["current", "work"]
+  },
+  {
+    "imageKey": "",
+    "title": "BigStudio Website",
+    "dates": "Photographer portifolio website",
+    "body1": "A photographer and cinematographer portifolio website",
+    "body2": "Built with Typscript|TailwindCss|ReactJs|Gsap",
+    "logoAlt": "",
+    "ctaText": "Website Link",
+    "ctaLink": "https://big-studio.vercel.app/",
+    "tags": ["current","work"]
+  },
+  {
+    "imageKey": "",
     "title": "Beardmen E-commerce",
-    "dates": "React Redux Node MongoDb",
-    "body1": "A full stack e-commerce website",
-    "body2": " Built with React|Redux|Node|MongoDb",
+    "dates": "A full stack e-commerce website",
+    "body1": "I developed a full-stack project, handling both frontend and backend components, to create a seamless, user-friendly platform that delivers an integrated and efficient user experience.",
+    "body2": "Built with Reactjs|Redux|Node|MongoDb",
     "logoAlt": "Shopify logo, a green bag with a white S on the front",
     "ctaText": "Website Link",
     "ctaLink": "https://beardmen.vercel.app",
@@ -35,30 +79,19 @@
   {
     "imageKey": "",
     "title": "Artisan-Finder",
-    "dates": "Typescript  React NextJs",
-    "body1": "A Website for finding and hiring your the best Artisan",
+    "dates": "A Website for finding and hiring your the best Artisan",
+    "body1": "I developed the clientside of this web app that facilitates finding and hiring top-tier artisans, ensuring a seamless and user-friendly experience for both clients and artisans.",
       "body2": "Built with ReactJs|Nextjs|TailwindCss",
-    "logoAlt": "",
+    "logoAlt": "Shopify logo, a green bag with a white S on the front",
     "ctaText": "Website Link",
     "ctaLink": "https://artisan-finder-news.vercel.app",
     "tags": ["current", "ec"]
   },
-   {
-    "imageKey": "",
-    "title": "Fitness Dashboard",
-    "dates": "React TailwindCss Typescript",
-    "body1": "A fitness dashboard",
-    "body2": "Built with Typscript|TailwindCss|ReactJs",
-    "logoAlt": "",
-    "ctaText": "Website Link",
-    "ctaLink": "https://fitness-dashboard.vercel.app/",
-    "tags": ["current","work"]
-  },
   {
     "imageKey": "",
     "title": "New Shoe",
-    "dates": "React TailwindCss Typescript",
-    "body1": "Sport store landing page",
+    "dates": "Sport store landing page",
+    "body1": "Sport store e-commerce landing page",
     "body2": "Built with Typscript|TailwindCss|ReactJs",
     "logoAlt": "",
     "ctaText": "Website Link",
@@ -68,8 +101,8 @@
    {
     "imageKey": "",
     "title": "Web Crypto",
-    "dates": "React Css Typescript",
-    "body1": "A Landing page ",
+    "dates": "Web Crypto Home page",
+    "body1": "A home page for a Web Crypto",
     "body2": "Built with Typscript|Css|ReactJs",
     "logoAlt": "",
     "ctaText": "Website Link",
