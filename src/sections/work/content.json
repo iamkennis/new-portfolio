@@ -3,11 +3,22 @@
     "imageKey": "",
     "title": "Rotapad WebApp",
     "dates": "Reatjs Javascript Typescript",
-    "body1": "Built with ReactJs/NextJs|Javascript/Typescript|",
+    "body1": "Worked has a fullstack engineer to help rewrite and optimized the code, improving code quality, maintainability, and security.",
     "body2": "Nodejs/Express|Firebase",
     "logoAlt": "",
     "ctaText": "Website Link",
     "ctaLink": "https://beta.rotapad.com",
+    "tags": ["current", "work"]
+  },
+  {
+    "imageKey": "",
+    "title": "Finosel WebApp",
+    "dates": "A financial and business management App for business owners and individuals.",
+    "body1": "Work has frontend developer to create a comprehensive dashboard for managing personal and business accounts,simplifying account management",
+    "body2": "",
+    "logoAlt": "",
+    "ctaText": "Website Link",
+    "ctaLink": "https://finosell.com",
     "tags": ["current", "work"]
   },
   {
