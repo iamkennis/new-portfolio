@@ -87,11 +87,6 @@ export const HeroSection = () => {
                 </Heading>
               </AnimateChild>
               <AnimateChild>
-                <Text fontWeight="bold" colorScheme="gray">
-                  Am a Front-end Software Developer
-                </Text>
-              </AnimateChild>
-              <AnimateChild>
                 <Stack direction="row" spacing={4}>
                   <Button
                     bgColor={pinkCircle}
