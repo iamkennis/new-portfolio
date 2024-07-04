@@ -59,14 +59,6 @@ export const FinalSection = () =>
                   >
                     Let&apos;s chat!
                   </Button>
-                  <Button
-                    variant="ghost"
-                    as={Link}
-                    isExternal
-                    href={RESUME_LINK}
-                  >
-                   PDF Resume
-                  </Button>
                 </Stack>
               </AnimateChild>
             </Stack>
