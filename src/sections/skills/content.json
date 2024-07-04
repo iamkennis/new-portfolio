@@ -10,13 +10,23 @@
   },
   {
     "style": "BADGE",
-    "badgeText": "FRAMEWORKS AND TECHNICAL",
-    "text": "NodeJs, ReactJs,ReactNative, NextJs, Express, Bootstrap, TailwindCss, ChakraUI, MaterialUI"
+    "badgeText": "FRONTEND FRAMEWORKS",
+    "text": "ReactJs, ReactNative, NextJs,Bootstrap, TailwindCss, ChakraUI, MaterialUI"
   },
   {
     "style": "BADGE",
-    "badgeText": "TOOLS",
-    "text": "Git, Netlify, Heroku ,Github, MongoDB"
+    "badgeText": "BACKEND FRAMEWORKS",
+    "text": "NodeJs,Expressjs,Mongoose,Feathersjs"
+  },
+  {
+    "style": "BADGE",
+    "badgeText": "DATABASE",
+    "text": "MongoDB,NoSQL,REST API"
+  },
+  {
+    "style": "BADGE",
+    "badgeText": "TOOLS AND TESTING",
+    "text": "Git, Netlify, Heroku ,Github,CI/CD,Jest,ReactTesting Library,Cypress"
   },
   {
     "style": "BADGE",
